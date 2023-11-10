@@ -1,0 +1,18 @@
+{
+    "name": "labex/api-academia-mvc",
+    "description": "Web Service de uma academia",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App\\",
+            "Core\\": "Core\\"
+        }
+    },
+    "authors": [
+        {
+            "name": "Renne"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

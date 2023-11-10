@@ -1,0 +1,35 @@
+SISTEMA DE GERÊNCIAMENTO DE ACADEMIA
+TECNOLOGIAS USADAS: PHP, MYSQL WORKBANCH
+PADRÃO DE PROJETO: MVC
+
+
+USUÁRIOS DO SISTEMA: Cliente e Administrador
+
+
+DADOS DO CLIENTE: 
+    nome
+    email
+    cpf
+    userType
+    foto
+    endereço
+    dataNascimento
+    turno
+    valorMensalidade
+    dataVencimento
+    statusCliente
+    horario
+
+Tabelas usadas para realizar um cadastro: tb_usuario, tb_cliente
+
+
+
+
+
+
+
+LISTAR CLIENTES :  http://localhost/ProjetoAcademia/ApiAvademiaMvc/Cliente/clientes
+
+
+
+
